@@ -103,7 +103,6 @@ const (
 	PropertyRequestStatus   Property = "REQUEST-STATUS" // TEXT
 	PropertyName            Property = "NAME"
 	PropertyXWRCalName      Property = "X-WR-CALNAME"
-	PropertySequence        Property = "SEQUENCE"
 )
 
 type Parameter string
